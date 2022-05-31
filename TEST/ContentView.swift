@@ -13,6 +13,7 @@ struct ContentView: View {
             Color.blue
             Text("Hello, world!")
                 .padding()
+            Color.yellow
         }
     }
 }
