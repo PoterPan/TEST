@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E707252D28462E5C00016A8D /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E707252C28462E5C00016A8D /* SwiftUIView.swift */; };
 		E7E028D628462A1500203F8B /* TESTApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7E028D528462A1500203F8B /* TESTApp.swift */; };
 		E7E028D828462A1500203F8B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7E028D728462A1500203F8B /* ContentView.swift */; };
 		E7E028DA28462A1900203F8B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E7E028D928462A1900203F8B /* Assets.xcassets */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		E707252C28462E5C00016A8D /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
 		E7E028D228462A1500203F8B /* TEST.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TEST.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E7E028D528462A1500203F8B /* TESTApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TESTApp.swift; sourceTree = "<group>"; };
 		E7E028D728462A1500203F8B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -96,6 +98,7 @@
 			children = (
 				E7E028D528462A1500203F8B /* TESTApp.swift */,
 				E7E028D728462A1500203F8B /* ContentView.swift */,
+				E707252C28462E5C00016A8D /* SwiftUIView.swift */,
 				E7E028D928462A1900203F8B /* Assets.xcassets */,
 				E7E028DB28462A1900203F8B /* Preview Content */,
 			);
@@ -259,6 +262,7 @@
 			files = (
 				E7E028D828462A1500203F8B /* ContentView.swift in Sources */,
 				E7E028D628462A1500203F8B /* TESTApp.swift in Sources */,
+				E707252D28462E5C00016A8D /* SwiftUIView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
